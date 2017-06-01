@@ -22,14 +22,18 @@
         android:text="第二次提交的BTN" />
 
     <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:onClick="btn3"
-        android:text="增加的Dev分支Btn" />
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="btn4"
         android:text="增加的远程Dev分支Btn" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Master分支添加代码" />
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:onClick="btn3"
+android:text="增加的Dev分支Btn" />
 
-</LinearLayout>
+    </LinearLayout>
