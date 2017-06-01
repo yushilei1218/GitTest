@@ -16,4 +16,8 @@ public class MainActivity extends AppCompatActivity {
     public void btn2(View view) {
         Toast.makeText(this, "你好1", Toast.LENGTH_SHORT).show();
     }
+
+    public void btn3(View view) {
+        Toast.makeText(this, "Dev1", Toast.LENGTH_SHORT).show();
+    }
 }
