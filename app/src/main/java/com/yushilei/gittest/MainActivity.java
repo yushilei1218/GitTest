@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
         String msg_6 = "Master 分支修改3";
         String msg_7 = "Master1分支修改4";
+        String msg_8 = "Dev分支修改3";
     }
 
     public void btn2(View view) {
