@@ -19,7 +19,10 @@ public class MainActivity extends AppCompatActivity {
         String msg_4 = "Feature-1分支修改2";
 
         String msg_5 = "Feature-1分支修改3";
+
+
         String msg_6 = "Master 分支修改3";
+        String msg_7 = "Master1分支修改4";
     }
 
     public void btn2(View view) {
