@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         String msg = "Dev 分支修改1";
+        String msg2 = "Dev 分支修改2";
     }
 
     public void btn2(View view) {
