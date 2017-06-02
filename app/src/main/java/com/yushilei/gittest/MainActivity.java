@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         String msg2 = "Dev 分支修改2";
         String msg_1 = "Master分支修改1";
         String msg_2 = "Master分支修改2";
+        String msg_3 = "Feature-1分支修改1";
     }
 
     public void btn2(View view) {
